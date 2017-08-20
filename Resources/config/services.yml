@@ -1,0 +1,4 @@
+services:
+#    map2u_core.example:
+#        class: Map2u\CoreBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
